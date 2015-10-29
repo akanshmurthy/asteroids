@@ -1,0 +1,15 @@
+body {
+  background-color: black;
+}
+
+#game-music {
+  margin-left: 450px
+}
+
+.game-content {
+  height: 550px;
+  width: 900px;
+  margin-left: 175px;
+  border: 1px solid white;
+}
+
