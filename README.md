@@ -15,4 +15,4 @@ The classic game with a Harry Potter twist.
 
 Visit and link at the top of this page and PLAY!
 
-Use the up, down, left, and right keys to move Harry, and press SPACE to shoot the dementors!
+Use the up key to thrust, down key to brake, left/right keys to rotate the ship (aka Harry's head), and press SPACE to shoot the dementors!
