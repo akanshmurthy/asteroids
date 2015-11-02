@@ -6,7 +6,10 @@ The classic game with a Harry Potter twist.
 
 ##Features
 
-Allows players to navigate and shoot with a keyboard strokes.
+- Allows players to navigate and shoot with keyboard strokes.
+- Utilizes the Canvas API and the Keymaster microlibrary. 
+- Rotates ship by calculating velocity and position with trigonometric functions. 
+- Spawns enemies with a custom seeding algorithm for added difficulty. 
 
 ##Gameplay Instructions
 
